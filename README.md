@@ -30,8 +30,8 @@ This is a pure Java project, made using Eclipse. It was pioneered for a client i
 
 ## Tools and Techniques
 + Object Oriented Programming (OOP)
-+ Advanced Java Technoques - Examples include anonymous lambda functions
-+ Abstract Data Structions - Examples include arrays and arraylists
++ Advanced Java Techniques - Examples include anonymous lambda functions
++ Abstract Data Structures - Examples include arrays and arraylists
 + Use of Third Party Vaadin Flow Libraries
 + Complex Algorithms - Examples include nested loops (there was an understanding of the associated time complexities)
 + Searching and Sorting Algorithms - Examples include insertion and sequential sorts as well as linear searching
