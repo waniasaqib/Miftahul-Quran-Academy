@@ -19,10 +19,27 @@ This is a pure Java project, made using Eclipse. It was pioneered for a client i
 - Crit_E_Evaluation: A final evaluation of the program against the success criteria set by the client and further recomendations for improving the product.
 
 ## Appendices Guide
-- 
+- Appendix I: Screenshots of the Initial Consultation with Client Emails
+- Appendix II: Transcript of Initial Consultation with Advisor Ms.Quan
+- Appendix III: Outline of Potential Functions of Program Provided by the Client
+- Appendix IV: The Full UML Diagrams for Each Object Class
+- Appendix V: Transcript of Consultation with the Client for Feedback
+- Appendix VI: The Flowcharts that Show the Progressions of the Attendance, Student Records, Student Progress and Other Menu
+- Appendix VII: A 152 Page Document for the Code Listing
+- Appendix VIII: Definitions of Islamic Terms to Aid in the Full Understanding of the Functionality of this Program and Documentation 
 
 ## Tools and Techniques
++ Object Oriented Programming (OOP)
++ Advanced Java Technoques - Examples include anonymous lambda functions
++ Abstract Data Structions - Examples include arrays and arraylists
++ Use of Third Party Vaadin Flow Libraries
++ Complex Algorithms - Examples include nested loops (there was an understanding of the associated time complexities)
++ Searching and Sorting Algorithms - Examples include insertion and sequential sorts as well as linear searching
++ File I/O
++ GUI Considerations - UI/UX designs
++ Use of Maven and the Spring Framework
++ UML Diagrams and Flowcharts
 
 ## Length
 Lines of Code: 3000+\
-Documentation Word Count: 1969\
+Documentation Word Count: 1969
