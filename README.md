@@ -37,8 +37,10 @@ This is a pure Java project, made using Eclipse. It was pioneered for a client i
 + Searching and Sorting Algorithms - Examples include insertion and sequential sorts as well as linear searching
 + File I/O
 + GUI Considerations - UI/UX designs
-+ Use of Maven and the Spring Framework
-+ UML Diagrams and Flowcharts
++ Maven
++ SpringBoot/Spring Framework
++ UML Diagrams
++ Flowcharts
 
 ## Length
 Lines of Code: 3000+\
