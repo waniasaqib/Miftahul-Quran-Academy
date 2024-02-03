@@ -15,7 +15,7 @@ This is a pure Java project, made using Eclipse. It was pioneered for a client i
 - Crit_B_Design: Outlines the design of the product and how it should look. Includes the design of each panel, relationship between each of the GUI classes, UML diagrams of how each of the object classes are going to be organized, flow charts showing the progress of the program and important algorithms, file formats, test plan and extensibility of product, i.e. making the product user friendly and code listings.
 - Crit_B_Record_of_tasks: In essence a calender of how the development of this program was organized and structured and a track record of the tasks I completed on specific days.
 - Crit_C_Development: Visual proof of all the tools and techniques used in this program. A more detailed account of what these are are under the tools and techniques sub-header.
-- Crit_D: Video evidence of the program in motion and a tour of its functionalities.
+- Crit_D: Video evidence of the program in motion and a tour of its functionalities. 
 - Crit_E_Evaluation: A final evaluation of the program against the success criteria set by the client and further recomendations for improving the product.
 
 ## Appendices Guide
@@ -41,6 +41,10 @@ This is a pure Java project, made using Eclipse. It was pioneered for a client i
 + SpringBoot/Spring Framework
 + UML Diagrams
 + Flowcharts
+
+## Video Tour of The Website
+[![Miftahul-Quran-Academy](https://img.youtube.com/vi/8Mdf5SZgMsE/0.jpg)](https://www.youtube.com/watch?v=8Mdf5SZgMsE)
+
 
 ## Length
 Lines of Code: 3000+\
